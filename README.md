@@ -1,0 +1,2 @@
+# AltManager
+Minecraft account manager
