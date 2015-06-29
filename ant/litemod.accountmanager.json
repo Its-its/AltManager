@@ -1,0 +1,8 @@
+{
+    "name": "${ant.project.name}",
+    "mcversion": "${litemodversion}",
+    "revision": "${build.number}",
+    "author": "${author}",
+    "description": "An Account Manager mod for liteloader 1.7.10, use the Default key 'P' for GUI, currently made and maintained by Its_its",
+    "url": "http://twitch.tv/Its_its"
+}

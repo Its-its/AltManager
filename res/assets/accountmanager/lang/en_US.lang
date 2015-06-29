@@ -1,0 +1,28 @@
+key.categories.accountmanager.gui=AccountManager
+
+-----------------------------------------------------
+
+net.itstjf.acc.button.pagenext=Page ->
+net.itstjf.acc.button.pageprev=<- Page
+net.itstjf.acc.button.add=Add Alt
+net.itstjf.acc.button.edit=Edit Alt
+net.itstjf.acc.button.remove=Remove Alt
+net.itstjf.acc.button.login=Login
+net.itstjf.acc.button.reconnect=Rec
+net.itstjf.acc.button.import=Import Accounts
+
+net.itstjf.acc.button.submit=Submit
+net.itstjf.acc.button.back=Back
+
+-----------------------------------------------------
+
+net.itstjf.acc.menu.string.alts=§7Select an account, §6Page: %d
+net.itstjf.acc.menu.string.searchalias=Search Alias's
+net.itstjf.acc.menu.string.helpencryption1=§2Encryption password. §cToggle Help for more info, Bottom right Corner
+net.itstjf.acc.menu.string.helpencryption2=§2Encryption password. §cDefault is 'Password'. §7The password you used to create the account will be used to login and edit the account, without the right one you cannot login or edit the account.
+net.itstjf.acc.menu.string.helpimport=§2Import accounts from text file, formats are §cuser§2: §cpassword§2, §calias§2: §cuser§2:§cpassword §3NOTE: Freezes MC while window is open.
+
+net.itstjf.acc.menu.string.addalt=Add/Edit Alt
+net.itstjf.acc.menu.string.user=Email/Username
+net.itstjf.acc.menu.string.pass=Password
+net.itstjf.acc.menu.string.alias=Alias
